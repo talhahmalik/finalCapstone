@@ -1,4 +1,4 @@
-<h3 align="center">Sentiment Analysis.</h3>
+<h3 align="center">Sentiment Analysis</h3>
 
 **Description:**
 
